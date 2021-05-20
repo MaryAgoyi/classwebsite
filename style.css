@@ -17,3 +17,9 @@ nav{
     justify-content: space-around;
     align-items: center;
 }
+.nav-links ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+
+}
