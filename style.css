@@ -17,9 +17,18 @@ nav{
     justify-content: space-around;
     align-items: center;
 }
+
 .nav-links ul {
     list-style-type: none;
     display: flex;
     flex-direction: row;
 
 }
+.nav-links ul li{
+   text-decoration: none;
+}
+.nav-links ul li a{
+    margin-left: 20px;
+
+}
+
