@@ -24,10 +24,9 @@ nav{
     flex-direction: row;
 
 }
-.nav-links ul li{
-   text-decoration: none;
-}
+
 .nav-links ul li a{
+    text-decoration: none;
     margin-left: 20px;
     color: white;
 
